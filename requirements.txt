@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+python-pptx
+openpyxl
+flask
+requests
+
